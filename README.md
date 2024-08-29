@@ -1,8 +1,9 @@
-# React + Vite
+# Carrito de Compras
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+El programa consiste en un carrito de compras de una tienda en linea de guitarras el cuál podra seleccionar las guitarras de su preferencia e ir sumandolas
+al carrito.
 
-Currently, two official plugins are available:
+Este proyecto se construyo con la biblioteca de React JS para hacer un programa escalable, rapido y de facil acceso usando Local Storage para guardar los 
+datos ingreados.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
