@@ -6,4 +6,6 @@ al carrito.
 Este proyecto se construyo con la biblioteca de React JS para hacer un programa escalable, rapido y de facil acceso usando Local Storage para guardar los 
 datos ingreados.
 
+Para ver el proyecto desplegado ir a la siguente url: https://yohander20.github.io/CarritoComprasEnReact/
+
 
